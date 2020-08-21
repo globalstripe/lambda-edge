@@ -1,8 +1,8 @@
 # lambda-edge
 
-Function to Parse the require uri and set query params before forwarding to origin
+Function to parse the request uri and set query params before forwarding to origin
 
-Use TestEvent.json to configure the Test Event on the Lamda UI
+Use TestEvent.json to configure the Test Event in the Lamda UI
 
 This will let you run the code before deploying to Lambda@Edge
 
